@@ -1,5 +1,6 @@
 # POS_tagging
 ![Alt text](https://github.com/DANIELEMARINI99/POS_tagging/blob/main/pos-tagging-img.jpeg "POS Tagging"){width=60%,height:60% }
+![text](pos-tagging-img.jpeg){ width=60%,height:30px }
 
 Project work for the "Natural Language Processing" course of the Artificial Intelligence Master's Degree at University of Bologna
 
