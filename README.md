@@ -1,7 +1,6 @@
 # POS_tagging
 
-![image](https://github.com/iulianzorila/POS-Tagging/blob/main/pos-tagging-img.jpeg)
-![text](pos-tagging-img.jpeg)
+![image](pos-tagging-img.jpeg)
 
 Project work for the "Natural Language Processing" course of the Artificial Intelligence Master's Degree at University of Bologna
 
