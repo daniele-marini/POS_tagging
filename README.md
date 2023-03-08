@@ -1,11 +1,13 @@
 # POS_tagging
 
 ![image](pos-tagging-img.jpeg)
-![image](https://github.com/iulianzorila/POS-Tagging/blob/main/pos-tagging-img.jpeg)
-<img src="[https://github.com/favicon.ico](https://github.com/iulianzorila/POS-Tagging/blob/main/pos-tagging-img.jpeg)" width="48">
 
 Project work for the "Natural Language Processing" course of the Artificial Intelligence Master's Degree at University of Bologna
 
+POS-tagging (part-of-speech tagging) is a process of assigning each word in a sentence a label that indicates its part of speech, such as noun, verb, adjective, adverb, etc. It is a way of analyzing sentence terms and assigning them a tag, thus providing further information about the sentence structure and meaning.
+
+Example:
+![image](https://github.com/iulianzorila/POS-Tagging/blob/main/POS-tag-example.png)
 # Authors 
 
 * Daniele Marini
@@ -33,6 +35,8 @@ Each tested architecture includes the same Embedding and dense layer (used for c
 To understand the best configuration of units per each layer, we performed a GridSearch over the number of units and trained a total of 60 models. The process took around 1 hour using the Colab GPU.
 
 # Results
+
+![image](https://github.com/iulianzorila/POS-Tagging/blob/main/F1-score.png)
 
 In the picture the numbers above each curve point specifies the number of trained epochs
 
