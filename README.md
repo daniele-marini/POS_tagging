@@ -18,7 +18,7 @@ Example:
 The objective of this project is to automatically perform POS-tagging by the means of deep neural networks, using pretrained word-embeddings.
 
 # Dataset
-The [dataset](https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/dependency_treebank.zip) can be downloaded from here, consisting of 200 files. We splitted them as such:
+The dataset can be downloaded from [here](https://raw.githubusercontent.com/nltk/nltk_data/gh-pages/packages/corpora/dependency_treebank.zip), consisting of 200 files. We splitted them as such:
 
 * 1-100 train set
 * 101-150 validation set
