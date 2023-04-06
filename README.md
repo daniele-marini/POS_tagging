@@ -7,7 +7,7 @@ Project work for the "Natural Language Processing" course of the Artificial Inte
 POS-tagging (part-of-speech tagging) is a process of assigning each word in a sentence a label that indicates its part of speech, such as noun, verb, adjective, adverb, etc. It is a way of analyzing sentence terms and assigning them a tag, thus providing further information about the sentence structure and meaning.
 
 Example:
-![image](https://github.com/iulianzorila/POS-Tagging/blob/main/POS-tag-example.png)
+![image](https://github.com/DANIELEMARINI99/POS_tagging/blob/main/POS-tag-example.png)
 # Authors 
 
 * Daniele Marini
